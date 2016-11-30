@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1EAA5038-3B26-F92D-E6CC-D586055DD222}") = "SlappyDog", "Assembly-CSharp.csproj", "{BDFDFF9F-1657-0797-8E60-062A660F3E19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDFDFF9F-1657-0797-8E60-062A660F3E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFDFF9F-1657-0797-8E60-062A660F3E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFDFF9F-1657-0797-8E60-062A660F3E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFDFF9F-1657-0797-8E60-062A660F3E19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

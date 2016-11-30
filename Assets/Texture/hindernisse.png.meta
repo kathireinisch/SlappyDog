@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: b3a324f7bc9cec34880d94a407e8c2b9
+timeCreated: 1474031898
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hindernisse_ast
+    21300002: hindernisse_1
+    21300004: hindernisse_2
+    21300006: hindernisse_3
+    21300008: hindernisse_4
+    21300010: hindernisse_5
+    21300012: hindernisse_6
+    21300014: hindernisse_7
+    21300016: hindernisse_8
+    21300018: hindernisse_9
+    21300020: hindernisse_10
+    21300022: hindernisse_11
+    21300024: hindernisse_12
+    21300026: hindernisse_13
+    21300028: hindernisse_14
+    21300030: hindernisse_15
+    21300032: hindernisse_16
+    21300034: hindernisse_17
+    21300036: hindernisse_18
+    21300038: hindernisse_19
+    21300040: hindernisse_20
+    21300042: hindernisse_21
+    21300044: hindernisse_22
+    21300046: hindernisse_23
+    21300048: hindernisse_keule
+    21300050: hindernisse_25
+    21300052: hindernisse_hecke
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hindernisse_ast
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2034
+        width: 892
+        height: 966
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_1
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 2739
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_2
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 2642
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_3
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2538
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_4
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 2497
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_5
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 2487
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_6
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 2450
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_7
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2448
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_8
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 2368
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_9
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 2362
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_10
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 2321
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_11
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2243
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_12
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 2187
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_13
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2171
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_14
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2024
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2007
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_16
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2007
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_17
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2007
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_18
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2007
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_19
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2009
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_20
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 2009
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_21
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 1687
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_22
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 1652
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_23
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 1648
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_keule
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 1548
+        width: 172
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_25
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1646
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: hindernisse_hecke
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 1294
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
