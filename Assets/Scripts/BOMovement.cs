@@ -18,7 +18,6 @@ public class BOMovement : MonoBehaviour {
 	}
 
 	void fixedUpdate(){
-		Debug.Log ("..");
 		velocity.x = speed;
 		transform.position += velocity * Time.deltaTime;
 	}

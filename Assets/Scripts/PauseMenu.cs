@@ -5,10 +5,12 @@ public class PauseMenu : MonoBehaviour {
 
 	private bool isPaused = false;
 	private Rect butRect;
+	Transform player;
 
 	// Use this for initialization
 	void OnGUI () {
 		if(isPaused){
+			player.position = player.position;
 			if(Input.GetButtonDown("ResumeBt")){
 				ToggleTimeScale ();
 			}

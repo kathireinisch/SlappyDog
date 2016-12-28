@@ -27,6 +27,7 @@ public class Score : MonoBehaviour {
 			return;
 		} else {
 			score = score + 0.01f;
+			score = Mathf.Round (score * 100)/100;
 			GameObject boostGO = GameObject.FindGameObjectWithTag ("Boost");
 			if(instance.dog.trigger){
 				score = score + 10f;

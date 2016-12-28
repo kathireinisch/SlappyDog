@@ -13,6 +13,8 @@ public class dogMovement1 : MonoBehaviour {
 	float deathCooldown = 0.5f;
 	Animator animator;
 	public bool trigger = false;
+	public Transform deathScreen;
+
 
 	// Use this for initialization
 	void Start () {
@@ -37,10 +39,9 @@ public class dogMovement1 : MonoBehaviour {
 	}
 
 
-	// Update is called once per frame
 	void FixedUpdate () {
 		if(dead == false){
-			velocity += gravity;// * Time.fixedDeltaTime;
+			velocity += gravity;
 			velocity.x = forwardSpeed;
 
 			if(didFlap == true){
@@ -55,25 +56,25 @@ public class dogMovement1 : MonoBehaviour {
 			}
 
 			velocity = new Vector3 (Mathf.Clamp (velocity.x, 0, maxSpeed), velocity.y, 0);
-			//velocity = Vector3.ClampMagnitude (velocity, maxSpeed);
 			transform.position += velocity * Time.fixedDeltaTime;
-			Debug.Log (velocity + "   " + velocity * Time.fixedDeltaTime);
 		}
 
 	}
 
 	void OnCollisionEnter2D(Collision2D collision){
-		Debug.Log ("HIT SOMETHING COLLISION");
 		animator.SetTrigger ("Death");
 		forwardSpeed = 0f;
 		dead = true;
+		if (deathScreen.gameObject.activeInHierarchy == false) {
+			deathScreen.gameObject.SetActive (true);
+		} else {
+			deathScreen.gameObject.SetActive (false);
+
+		}
 	}
 
 	void OnTriggerEnter2D(Collider2D other){
-		Debug.Log ("HIT SOMETHING TRIGGER");
 		trigger = true;
-
-
 	}
 
 	private Rigidbody2D body;
